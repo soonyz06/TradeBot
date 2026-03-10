@@ -1,11 +1,11 @@
 ![example](im/b.PNG)
 
 Reasons don't work:
-- Based on technica analysis (TA) which probably isn't real (too simplistic)
-- Patterns not persistent, not pervasive, etc
-- Backtests don't accurately enough represent live conditions (slippage, fees)
-- Trading CFDs is just a bad idea (insane leverage, overnight spread, fees, etc)
-- Overfitted and not robust despite attempts at (train, val, test split), (optimised/trained using a small number of combinations of params (num of params and size of step)), live testing, etc
+- Based on technica analysis (TA) which probably isn't real (too simplistic -> crowded)
+- Patterns not persistent and pervasive, regime changes, etc
+- Backtests don't accurately enough represent live conditions (liquidity, slippage, fees)
+- Trading CFDs is just a bad idea (insane leverage, overnight spread, transaction costs, etc)
+- Overfitted and not robust despite attempts at (train, val, test split), (optimised/trained using a small number of combinations of params (num of params and size of step)), live testing, walk-forward testing, etc
 - Past performance is not a predictor of future results or smth like that
 
 Example of Overfitting
@@ -19,14 +19,14 @@ Param Optimisation -> Train + Sensitivity
 Market Scanner -> Robust + Pervasive
 ![scanne4r](im/scanner.png)
 
-# Forex (Somewhat HFT (not actually))
+# Somewhat HFT (not actually) ~ Forex
 EURUSD
 ![example](im/example5.png)  
 
 USDJPY
 ![example](im/example6.png)   
 
-# Martingale to Intrinsic Value (from DCF, etc)  
+# Value ~ Martingale (intrinsic value from DCF, etc)  
 RBLX
 ![example](im/example4.png)  
 
@@ -34,7 +34,7 @@ RBLX
 AAPL
 ![example](im/example3.png)
 
-# Breakouts  
+# Momentum ~ Breakouts  
 USDJPY
 ![example](im/example7.png)  
 JNJ
