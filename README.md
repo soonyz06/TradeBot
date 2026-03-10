@@ -33,6 +33,8 @@ RBLX
 # Mean Reversion  
 AAPL
 ![example](im/example3.png)
+EURUSD
+![example](im/abc.png)
 
 # Momentum ~ Breakouts  
 USDJPY
