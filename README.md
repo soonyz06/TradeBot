@@ -12,8 +12,8 @@ Example of Overfitting
 ![overfit](im/a.PNG)
 
 # Example 
-Backtest
-![example](im/example.png)
+Backtest (20 yrs)
+![example](im/1.png)
 Param Optimisation -> Train + Sensitivity
 ![opt](im/opt.png)
 Market Scanner -> Robust + Pervasive
@@ -21,10 +21,10 @@ Market Scanner -> Robust + Pervasive
 
 # Somewhat HFT (not actually) ~ Forex
 EURUSD
-![example](im/example5.png)  
+![example](im/6.png)  
 
 USDJPY
-![example](im/example6.png)   
+![example](im/7.png)   
 
 # Value + Martingale (intrinsic value from [DCF](RBLX.xlsx))  
 RBLX
@@ -32,15 +32,15 @@ RBLX
 
 # Mean Reversion  
 AAPL
-![example](im/example3.png)
+![example](im/2.png)
 EURUSD
-![example](im/abc.png)
+![example](im/3.png)
 
 # Momentum   
 USDJPY
-![example](im/example7.png)  
+![example](im/4.png)  
 JNJ
-![example](im/example2.png)
+![example](im/5.png)
 
 
 
