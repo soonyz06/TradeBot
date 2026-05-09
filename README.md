@@ -1,6 +1,6 @@
 ![example](im/b.PNG)
 - Tested many, many hypotheses, 99% didn't work and the 1% that did were not stable  
-Reasons might not work:
+# Reasons might not work:
 - Based on technical analysis (too simplistic, crowded, just noise)
 - Patterns not persistent nor pervasive, regime changes, etc
 - Backtests don't accurately enough represent live conditions (slippage, fees)
