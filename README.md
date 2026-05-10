@@ -1,5 +1,5 @@
 ![example](im/b.PNG)
-- Tested many, many hypotheses, 99% didn't work and the 1% that did were not stable  
+- Tested many, many ideas, 99% didn't work and the 1% that did were not stable  
 # Reasons might not work:
 - Based on technical analysis (too simplistic, crowded, just noise)
 - Patterns not persistent nor pervasive, regime changes, etc
